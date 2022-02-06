@@ -4,4 +4,4 @@ This is my first Web Dev project. I am so happy and greateful now that I am moti
 In this project I will put in practice what I`ve been learning during the curriculum and learn how to built-up my first blog with recipes from scratch. I will then, in a later stage, also learn how to style the website with using CSS. For now, the project will focus on practicing the HTML structure. 
 
 <a href="https://github.com/thalesbonan/odin-recipes-TB/blob/e29a891bddc04abf239e1b72d8d104ca242cf070/index.html">See my first Github website</a>
-<a href="file:///home/thales/repos/odin-recipes-TB/index.html">See my first Github website 2</a>
+<a href="https://thalesbonan.github.io/odin-recipes-TB/index.html">See my first Github website 2</a>
